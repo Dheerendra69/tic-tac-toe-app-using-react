@@ -1,4 +1,4 @@
-# 🎮 Tic Tac Toe – React Game
+#  Tic Tac Toe – React Game
 
 A simple and interactive Tic Tac Toe game built using React. It allows two players to play alternately on a 3×3 grid, tracks the winner, and gives the option to restart the game.
 
