@@ -38,8 +38,8 @@ Play it here 👉 [https://tic-tac-toe-emag.netlify.app/](https://tic-tac-toe-em
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ai-incident-dashboard.git
-   cd ai-incident-dashboard
+   git clone https://github.com/Dheerendra69/tic-tac-toe-app-using-react.git
+   cd tic-tac-toe-app-using-react
 2. Install dependencies:
 
 ``` bash
